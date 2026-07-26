@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Spider-Man</title>
+</head>
+<body>
+
+    <h1>Spider-Man</h1>
+
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Spiderman50.jpg"
+         alt="Spider-Man swinging through the city"
+         width="300">
+
+    <p>
+        Spider-Man is one of my favorite Marvel superheroes.
+        His real name is Peter Parker. He uses his spider powers
+        to protect people and fight villains while learning the
+        importance of responsibility.
+    </p>
+
+    <a href="https://www.marvel.com/characters/spider-man-peter-parker">
+        Learn more about Spider-Man
+    </a>
+
+</body>
+</html>
